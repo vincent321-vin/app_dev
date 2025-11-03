@@ -1,49 +1,60 @@
 # app_dev
 my first repository
 
-# 🍖 My Favorite Anime: One Piece
+# 🎬 My Favorite Movie: Avengers: Endgame
 
-## 🏴‍☠️ About the Series
-**One Piece** is a Japanese anime series created by *Eiichiro Oda*.  
-It follows **Monkey D. Luffy** and his crew, the *Straw Hat Pirates*, as they sail across the Grand Line in search of the legendary treasure known as **One Piece**.
+## 🦸 About the Movie
+**Avengers: Endgame** is a superhero film produced by *Marvel Studios* and directed by *Anthony and Joe Russo*.  
+It serves as the conclusion to the **Infinity Saga**, where the remaining heroes unite to reverse *Thanos’* universe-ending snap.
 
-> “I’m gonna be King of the Pirates!” – Monkey D. Luffy
-
----
-
-## 🧭 Main Characters
-1. **Monkey D. Luffy** – The cheerful and determined captain with rubber powers.  
-2. **Roronoa Zoro** – The swordsman who dreams of becoming the greatest in the world.  
-3. **Nami** – The skilled navigator who loves maps and money.  
-4. **Sanji** – The charming cook who fights with powerful kicks.  
-5. **Tony Tony Chopper** – The cute doctor who can transform into different forms.  
-6. **Nico Robin** – The archaeologist who seeks the true history of the world.
+> “Whatever it takes.” – Captain America
 
 ---
 
-## 🌊 My Favorite Arcs
-- 🏝️ **Alabasta Arc** – The Straw Hats fight to save a desert kingdom.  
-- 🧊 **Enies Lobby Arc** – The crew declares war on the World Government.  
-- ☠️ **Marineford Arc** – A huge battle between pirates and the Marines.  
-- 🔥 **Wano Arc** – A samurai land with epic battles and alliances.
+## 🌟 Main Characters
+1. **Tony Stark / Iron Man** – The genius inventor who makes the ultimate sacrifice.  
+2. **Steve Rogers / Captain America** – The noble leader who finally finds peace.  
+3. **Thor** – The god of thunder struggling with loss and guilt.  
+4. **Natasha Romanoff / Black Widow** – The fearless spy who sacrifices for her team.  
+5. **Bruce Banner / Hulk** – The scientist who balances brains and brawn.  
+6. **Clint Barton / Hawkeye** – The sharpshooter seeking redemption.
 
 ---
 
-## ⚓ Why I Love It
-- Inspiring story about chasing dreams.  
-- Emotional moments that make you cry *and* laugh.  
-- Amazing world-building and adventure.  
-- Memorable characters and friendships.  
+## ⚔️ My Favorite Scenes
+- 💥 **The Final Battle** – All heroes unite against Thanos in an epic showdown.  
+- ⏰ **Time Heist** – The Avengers travel through time to collect the Infinity Stones.  
+- 🧲 **“I am Iron Man.”** – Tony Stark’s final moment of heroism.  
+- 🛡️ **Wielding Mjolnir** – Captain America proves himself worthy of Thor’s hammer.  
+
+---
+
+## 💫 Why I Love It
+- Inspiring story of courage and sacrifice  
+- Emotional endings for beloved characters  
+- Epic visual effects and soundtrack  
+- Unforgettable dialogue and action sequences  
 
 ---
 
 ### ❤️ Favorite Quote
-> “When do you think people die? When they are forgotten.”  
-> — Dr. Hiluluk
+> “Part of the journey is the end.”  
+> — *Tony Stark*
 
 ---
 
-### 📺 Watch It Here
-[Crunchyroll – One Piece](https://www.crunchyroll.com/series/GRMG8ZQZR/one-piece)
+### 💡 Fun Fact (Using Inline Code)
+The movie’s runtime is `3 hours and 2 minutes`, making it one of the longest MCU films!
 
+---
 
+### 🎥 Watch It Here
+[Disney+ – Avengers: Endgame](https://www.disneyplus.com/movies/avengers-endgame/)
+
+---
+
+### 🧩 Code Example (Just for Fun)
+```python
+heroes = ["Iron Man", "Captain America", "Thor", "Hulk", "Black Widow", "Hawkeye"]
+for hero in heroes:
+    print(f"{hero} joined the final battle!")
